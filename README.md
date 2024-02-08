@@ -1,32 +1,74 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4b59c3,100:e7f5db&height=180&text=Jo%20Sungho&animation=&fontColor=4c32cd&fontSize=60" />
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요. </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 웹 백엔드 개발자가 되고 싶은 입문자입니다. </div> 
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
-    <div style="margin: 0 auto; text-align: center;" align= "center"> 
-          <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"><br>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
-          </div>
-    </div>
-    <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:eoblue23@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eoblue23@gmail.com"> </a>
-         <a href=www> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=www"> </a>
-          </div>  <br> 
-    <div align= "center"> <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsungholion%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-       </div> 
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=sungholion&bg_color=180,d8d8da,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sungholion&layout=compact&bg_color=180,d8d8da,00000000&title_color=000000&text_color=000000"
-           /> </div> 
-    </div>
-    
+### Hi there, I'm Jinwoo Lee 👋 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinlee1703%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+---
+
+### Tech Stack
+
+<b>Language</b> : 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual Basic-512BD4?style=flat&logo=Visual Basic&logoColor=white" />
+
+<b>Front-End</b> : 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
+
+<b>Back-End</b> : 
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socketdotio&logoColor=white" />
+
+<b>Database</b> : 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
+
+<b>Deployment</b> : 
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white" />
+<img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat&logo=Naver&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=Terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat&logo=GitHub Actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+
+<b>Communication</b> : 
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
+
+---
+
+### Career
+
+- 경북소프트웨어고등학교 기능경기대회 정보기술 직종 준비반 강사 (21.11.18. - 22. 8.26.)
+- Microsoft Office Excel 및 Visual Basic for Application 프리랜서 (17. 8.21. - )
+
+---
+
+### Activity
+
+- 경북기계공업고등학교 정보기술 기능영재반 (14. 3. 2. - 17. 2. 10.)
+- 2022 오픈소스 컨트리뷰션 아카데미 (22. 7. 9. - 22. 10. 14.)
+- 네이버 부스트캠프 웹·모바일 7기 (22. 7. 18. - 22. 12. 16.)
+- 영남대학교 멋쟁이사자처럼 11기 (23. 3. 23. - 23. 8. 19.)
+- 소프트웨어 마에스트로 14기 (23. 4. 3. - 23. 12. 14.)
+
+---
+
+### SNS & Portfolio
+
+<a href="mailto:jinlee1703@gmail.com">
+  <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://jinlee1703.github.io">
+  <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+</a>
+<!-- <a href="https://candy-yam-479.notion.site/Lee-Jinwoo-6f25957336cd4310853b7f8f12e6daf5">
+  <img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+</a> -->
