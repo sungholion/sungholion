@@ -28,8 +28,9 @@
 
 ### Activity
 
+- Samsung SoftWare Academy For Youth(SSAFY) 11기 (24.01 - ing~)
 - 경북대학교 멋쟁이사자처럼 10기 (22.03 - 22.12)
-- Samsung SoftWare Academy For Youth(SSAFY) 11기 (24.01 ~ing)
+
 
 ---
 ### Education 
@@ -47,8 +48,5 @@
 ### Algorithm
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=java_eoblue" height="150">
 
-<!--<a href="https://jinlee1703.github.io">
-  <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-  -->
-</a>
+
 
