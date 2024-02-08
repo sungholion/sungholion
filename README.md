@@ -34,8 +34,6 @@
 ---
 ### Education 
 
-- 경북대학교 멋쟁이사자처럼 10기 (22.03 - 22.12)
-- Samsung SoftWare Academy For Youth(SSAFY) 11기 (24.01 ~ing)
 - 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공 졸업(22.03 - 24.02 <편입>)
 - Microsoft Office Excel 및 Visual Basic for Application 프리랜서 (17. 8.21. - )
 ---
