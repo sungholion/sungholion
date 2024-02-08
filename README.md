@@ -8,7 +8,13 @@
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> 
 
+<!--
 <b>Front-End</b> : 
+<b>Database</b> : 
+<b>Deployment</b> : 
+<b>Communication</b> : 
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
+-->
 
 <b>Back-End</b> : 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
@@ -16,14 +22,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
 
-<b>Database</b> : 
 
-
-<b>Deployment</b> : 
-
-
-<b>Communication</b> : 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
 
 ---
 
