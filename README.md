@@ -24,31 +24,34 @@
 
 <b>Database</b> : 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB"/>
 
 <b>Deployment</b> : 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
 
-<b>Communication</b> : 
+<b>Etc</b> : 
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white" alt="GitLab"/>
 
 
 ---
 
 ### Activity
 
-- SSAFY(SAMSUNG SOFTWARE ACADEMY FOR YOUTH) 11기 진행중 <24.01 ~ 24.12>
-- 경북대학교 멋쟁이사자처럼 10기 수료 <22.03 - 22.12>
+- 삼성 청년 SW 아카데미 (SSAFY) 11기 - Java 전공자반 <24.01 ~ 24.12>
+- 멋쟁이사자처럼 전국 연합 코딩 동아리 10기 <22.03 ~ 22.12>
 
 
 ---
 ### Education 
 
-- 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공 졸업 <22.03 - 24.02 (편입)>
+- 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공 졸업<22.03 - 24.02 (편입)>
 
 ### SNS & Portfolio
 
-<a href="mailto:eoblue23@gmail.com">
+<a href="mailto:eoblue23@naver.com">
   <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 </a>
 
@@ -57,12 +60,4 @@
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=java_eoblue" height="150">
 
 
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/sungholion"
-  width="600"
-  height="300"
-/>
-</a>
   
