@@ -19,7 +19,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"> 
-<img src="https://img.shields.io/badge/apache jmeter-D22128?style=flat-square&logo=apache jmeter&logoColor=white"> 
+<img src="https://img.shields.io/badge/Apache jmeter-D22128?style=flat-square&logo=Apache jmeter&logoColor=white"> 
 
 
 <b>Etc</b> : 
