@@ -12,7 +12,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
 
 
 <b>Back-End</b> : 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
