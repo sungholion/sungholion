@@ -61,10 +61,10 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
         </a>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <b>SHOOOT!</b>
+        <b>EZDG</b>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px">
-        주니어 개발자도 체계적인 협업, 배포, 테스트까지 간편하게!
+        짧은 코드로 공공 데이터 조회! 공공 데이터를 쉽게 조회하는 Java 오픈소스 라이브러리
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         6인
@@ -76,7 +76,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a
-          href="https://github.com/Shooot-PJT/shooot"
+          href="https://github.com/sungholion/EZDG_OpenData"
           title="GitHub Repository"
           >💻 GitHub</a
         >
