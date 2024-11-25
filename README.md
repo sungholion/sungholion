@@ -8,7 +8,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
   <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 </a>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Tech Stack
 
@@ -31,14 +31,14 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white" alt="GitLab"/>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Education 
 
 - 삼성 청년 SW 아카데미 (SSAFY) 11기 - Java 전공자반 <24.01 ~ 24.12>
 - 멋쟁이 사자처럼 전국 연합 코딩 동아리 10기 경북대 <22.03 ~ 22.12>
 - 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공 졸업 <22.03 - 24.02> [편입]
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
@@ -161,7 +161,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
     
   </tbody></table>
 
-------------------------------------------------------------------------------------------------------------------------------------
+
 
 ## Algorithm
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=java_eoblue" height="150">
