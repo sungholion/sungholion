@@ -54,9 +54,8 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
         <a href="https://github.com/Shooot-PJT/shooot" title="Project 1">
           <img
             src="https://github.com/user-attachments/assets/483e5257-1631-4cfe-b440-13c812f0fff7"
-            width="100px;"
-            alt="Project 1"
             width="100px"
+            alt="Project 1"
           />
         </a>
       </td>
@@ -70,63 +69,28 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
         6인
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo"
-          >24.10.14 ~ 24.11.19 (5주) </a
-        >
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a
-          href="https://github.com/sungholion/EZDG_OpenData"
-          title="GitHub Repository"
-          >💻 GitHub</a
-        >
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://www.youtube.com/watch?v=rPCc0XwKETY&ab_channel=%EC%A1%B0%EC%84%B1%ED%98%B8%5B%EA%B5%AC%EB%AF%B8_1%EB%B0%98_D110%5D%ED%8C%80%EC%9B%90" title="UCC">📽️ UCC</a>
-      </td>
-    </tr>
-
-     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://github.com/Shooot-PJT/shooot" title="Project 1">
-          <img
-            src="https://github.com/user-attachments/assets/483e5257-1631-4cfe-b440-13c812f0fff7"
-            width="100px;"
-            alt="Project 1"
-            width="100px"
-          />
+        <a href="https://project1-demo-link.com" title="Live Demo">
+          24.10.14 ~ 24.11.19 (5주)
         </a>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <b>EZDG</b>
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px">
-        짧은 코드로 공공 데이터 조회! 공공 데이터를 쉽게 조회하는 Java 오픈소스 라이브러리
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        6인
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo"
-          >24.10.23 ~ 24.11.19</a
-        >
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a
           href="https://github.com/sungholion/EZDG_OpenData"
           title="GitHub Repository"
-          >💻 GitHub</a
         >
+          💻 GitHub
+        </a>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo">🚀 Demo</a>
+        <a
+          href="https://www.youtube.com/watch?v=rPCc0XwKETY&ab_channel=%EC%A1%B0%EC%84%B1%ED%98%B8%5B%EA%B5%AC%EB%AF%B8_1%EB%B0%98_D110%5D%ED%8C%80%EC%9B%90"
+          title="UCC"
+        >
+          📽️ UCC
+        </a>
       </td>
     </tr>
-
-
-
- </tbody>
-</table>
+  </tbody></table>
 
 
 ## Algorithm
