@@ -42,8 +42,6 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
 
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## 👨‍💼 프로젝트 목록
 
 <table style="border-collapse: collapse; width: 100%; table-layout: fixed">
