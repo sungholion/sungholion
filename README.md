@@ -61,7 +61,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
         <b>EZDG</b>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px">
-        짧은 코드로 공공 데이터 조회! 공공 데이터를 쉽게 조회하는 Java 오픈소스 라이브러리
+        공공 데이터를 쉽게 조회하는 Java 오픈소스 라이브러리
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         6인
@@ -108,7 +108,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a href="https://github.com/sungholion/NativeNavs" title="Github"
-          >24.07.08 ~ 24.08.15</a
+          >24.07.08 ~ 24.08.15 (6주) </a
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
