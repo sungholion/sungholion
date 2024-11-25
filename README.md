@@ -85,8 +85,9 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
         <a href="https://project1-demo-link.com" title="Live Demo">🚀 Demo</a>
       </td>
     </tr>
-      </td>
 
+ </tbody>
+</table>
 ## Algorithm
  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=java_eoblue" height="150">
 
