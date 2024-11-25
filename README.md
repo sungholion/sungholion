@@ -115,11 +115,11 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
         <a
           href="https://github.com/sungholion/NativeNavs"
           title="GitHub Repository"
-          >💻 &nbsp GitHub</a
+          >💻 GitHub</a
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://www.youtube.com/watch?v=nVEs_RKd6A0&ab_channel=%EC%A1%B0%EC%84%B1%ED%98%B8%5B%EA%B5%AC%EB%AF%B8_1%EB%B0%98_D110%5D%ED%8C%80%EC%9B%90" title="UCC">📽️  UCC</a>
+        <a href="https://www.youtube.com/watch?v=nVEs_RKd6A0&ab_channel=%EC%A1%B0%EC%84%B1%ED%98%B8%5B%EA%B5%AC%EB%AF%B8_1%EB%B0%98_D110%5D%ED%8C%80%EC%9B%90" title="UCC">📽️ &nbsp UCC</a>
       </td>
     </tr>
 
