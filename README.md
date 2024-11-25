@@ -53,7 +53,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a href="https://github.com/Shooot-PJT/shooot" title="Project 1">
           <img
-            src="https://avatars.githubusercontent.com/u/188952814?s=200&v=4"
+            src="https://github.com/user-attachments/assets/483e5257-1631-4cfe-b440-13c812f0fff7"
             width="100px;"
             alt="Project 1"
             width="100px"
