@@ -115,7 +115,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
         <a
           href="https://github.com/sungholion/NativeNavs"
           title="GitHub Repository"
-          >💻 GitHub</a
+          >💻 &nbsp GitHub</a
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
@@ -155,7 +155,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://www.youtube.com/watch?v=H1jLMPRVIYk&ab_channel=%EC%95%88%ED%9D%AC%EC%A0%95" title="UCC">📽️ Demo</a>
+        <a href="https://www.youtube.com/watch?v=H1jLMPRVIYk&ab_channel=%EC%95%88%ED%9D%AC%EC%A0%95" title="UCC">📽️ &nbsp Demo</a>
       </td>
     </tr>
     </tr>
