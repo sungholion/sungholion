@@ -134,7 +134,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
         </a>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <b>NativeNavs</b>
+        <b>Web-R DashBoard</b>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px">
         'Web-R' 관리자를 위한 사용자&게시글 분석 DashBoard
@@ -155,7 +155,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://www.youtube.com/watch?v=H1jLMPRVIYk&ab_channel=%EC%95%88%ED%9D%AC%EC%A0%95" title="UCC">📽️ UCC</a>
+        <a href="https://www.youtube.com/watch?v=H1jLMPRVIYk&ab_channel=%EC%95%88%ED%9D%AC%EC%A0%95" title="UCC">📽️ Demo Video</a>
       </td>
     </tr>
     </tr>
