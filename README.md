@@ -122,6 +122,42 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
       </td>
     </tr>
 
+<tr>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        <a href="https://github.com/sungholion/newJeaps" title="Project 1">
+          <img
+            src="https://github.com/user-attachments/assets/08b11a17-132e-4adf-a2c7-4f7083b98386"
+            width="100px"
+          />
+        </a>
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        <b>New Jeaps</b>
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px">
+        부동산 실거래가 조회 & 매물 거래 웹 서비스
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        2인
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        <a href="https://github.com/sungholion/newJeaps" title="Github"
+          >24.05.13 ~ 24.05.24 (2주) </a
+        >
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        <a
+          href="https://github.com/sungholion/newJeaps"
+          title="GitHub Repository"
+          >💻 GitHub</a
+        >
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        <a href="https://www.youtube.com/watch?v=LjCr70gm_MU&ab_channel=%EC%88%98%ED%8F%89" title="UCC">📽️ Video</a>
+      </td>
+    </tr>
+    </tr>
+
 
 <tr>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
