@@ -123,40 +123,6 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
       </td>
     </tr>
 
-     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://github.com/sungholion/Web-R-Dashboard" title="Project 1">
-          <img
-            src="https://github.com/user-attachments/assets/a1f52712-6c68-4a83-9ce0-f86cc5bbe576"
-            width="100px"
-          />
-        </a>
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <b>NativeNavs</b>
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px">
-        'Web-R' 관리자를 위한 사용자&게시글 분석 DashBoard
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        6인
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://github.com/sungholion/Web-R-Dashboard" title="Github"
-          >23.09.11 ~ 24.12.04 (12주) </a
-        >
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a
-          href="https://github.com/sungholion/Web-R-Dashboard"
-          title="GitHub Repository"
-          >💻 GitHub</a
-        >
-      </td>
-      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://www.youtube.com/watch?v=H1jLMPRVIYk&ab_channel=%EC%95%88%ED%9D%AC%EC%A0%95" title="UCC">📽️ UCC</a>
-      </td>
-    </tr>
     
     
   </tbody></table>
