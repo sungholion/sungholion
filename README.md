@@ -49,7 +49,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
   <tbody>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://github.com/Shooot-PJT/shooot" title="Project 1">
+        <a href="https://github.com/sungholion/EZDG_OpenData" title="Project 1">
           <img
             src="https://github.com/user-attachments/assets/483e5257-1631-4cfe-b440-13c812f0fff7"
             width="100px"
@@ -67,7 +67,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
         6인
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo">
+        <a href="https://github.com/sungholion/EZDG_OpenData" title="Github">
           24.10.14 ~ 24.11.19 (5주)
         </a>
       </td>
@@ -90,9 +90,9 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
     </tr>
  <tr>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://github.com/Dr-Study-PJT/dr-study" title="Project 1">
+        <a href="https://github.com/sungholion/NativeNavs" title="Project 1">
           <img
-            src="https://velog.velcdn.com/images/he1256/post/ece44d61-b4b7-442e-9831-05a4ac7773f3/image.png"
+            src="https://github.com/user-attachments/assets/e99aefe1-81eb-4e65-8133-8c01795a9508"
             width="100px"
           />
         </a>
@@ -107,7 +107,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
         6인
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo"
+        <a href="https://github.com/sungholion/NativeNavs" title="Github"
           >24.07.08 ~ 24.08.15</a
         >
       </td>
