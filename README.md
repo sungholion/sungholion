@@ -85,14 +85,6 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
         <a href="https://project1-demo-link.com" title="Live Demo">🚀 Demo</a>
       </td>
     </tr>
-    <tr>
-      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://github.com/Dr-Study-PJT/dr-study" title="Project 1">
-          <img
-            src="https://velog.velcdn.com/images/he1256/post/ece44d61-b4b7-442e-9831-05a4ac7773f3/image.png"
-            width="100px"
-          />
-        </a>
       </td>
 
 ## Algorithm
