@@ -43,9 +43,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📂 프로젝트 목록
-
-### 🖥️ WEB
+## 👨‍💼 프로젝트 목록
 
 <table style="border-collapse: collapse; width: 100%; table-layout: fixed">
   <tbody>
@@ -100,28 +98,28 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
         </a>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <b>껄껄껄</b>
+        <b>NativeNavs</b>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px">
-        챌린지와 게임으로 재미있게 절약하는 블록체인 핀테크 앱
+        외국인 관광객과 한국의 일반인을 가이드로 매칭하는 모바일 앱
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         6인
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a href="https://project1-demo-link.com" title="Live Demo"
-          >24.08.26 ~ 24.10.16</a
+          >24.07.08 ~ 24.08.15</a
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a
-          href="https://github.com/your-project1-repo"
+          href="https://github.com/sungholion/NativeNavs"
           title="GitHub Repository"
           >💻 GitHub</a
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
-        <a href="https://project1-demo-link.com" title="Live Demo">🚀 Demo</a>
+        <a href="https://www.youtube.com/watch?v=nVEs_RKd6A0&ab_channel=%EC%A1%B0%EC%84%B1%ED%98%B8%5B%EA%B5%AC%EB%AF%B8_1%EB%B0%98_D110%5D%ED%8C%80%EC%9B%90" title="UCC">📽️ uCC</a>
       </td>
     </tr>
     
