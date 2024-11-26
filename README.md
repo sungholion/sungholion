@@ -1,8 +1,8 @@
-## Hi there, I'm Sungho Jo 👋 
+## 👋 Hi there, I'm Sungho Jo  
 I'm trying to be a developer who develops based on evidence. Additionally, I value user experience and am very interested in finding and improving user pain points.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-## SNS
+## 🤙 SNS
 
 <a href="mailto:eoblue23@naver.com">
   <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
@@ -10,7 +10,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
 
 
 
-## Tech Stack
+## 🛠 Tech Stack
 
 <b>Language</b> : 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
@@ -33,7 +33,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
 
 
 
-## Education 
+## 🎓 Education 
 
 - 삼성 청년 SW 아카데미 (SSAFY) 11기 - Java 전공자반 <24.01 ~ 24.12>
 - 멋쟁이 사자처럼 전국 연합 코딩 동아리 10기 경북대 <22.03 ~ 22.12>
@@ -42,7 +42,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
 
 
 
-## 👨‍💼 프로젝트 목록
+## 💻 프로젝트 목록
 
 <table style="border-collapse: collapse; width: 100%; table-layout: fixed">
   <tbody>
@@ -199,7 +199,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
 
 
 
- ## Algorithm
+ ## 🧠 Algorithm
 <table>
   <tr>
     <td>
