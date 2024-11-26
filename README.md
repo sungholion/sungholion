@@ -199,8 +199,38 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
 
 
 
-## Algorithm
- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=java_eoblue" height="150">
+ ## Algorithm
+<table>
+  <tr>
+    <td>
+      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=java_eoblue" height="150">
+    </td>
+    <td>
+      <table style="border-collapse: collapse; width: 100%; table-layout: fixed">
+        <thead>
+          <tr>
+            <th style="border: 1px solid #ddd; padding: 8px; text-align: center">문제 유형</th>
+            <th style="border: 1px solid #ddd; padding: 8px; text-align: center">해결 개수</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: center">DP</td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: center">10개</td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: center">Graph</td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: center">8개</td>
+          </tr>
+          <tr>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: center">Binary Search</td>
+            <td style="border: 1px solid #ddd; padding: 8px; text-align: center">5개</td>
+          </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+</table>
 
 
   
