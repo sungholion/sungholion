@@ -207,7 +207,7 @@ I'm trying to be a developer who develops based on evidence. Additionally, I val
     </td>
     <td>
       <table style="border-collapse: collapse; width: 100%; table-layout: fixed">
-      <a href="https://github.com/sungholion/Algorithm"> </a>
+      <a href="https://github.com/sungholion/Algorithm"> Algorithm Solved</a>
       </table>
     </td>
   </tr>
