@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Sungho Jo  
+# 👋 Hi there, I'm Sungho Jo  
 I'm **Backend Developer** using Java and Spring. I'm trying to be a developer who develops based on evidence. <br>
 Additionally, I value user experience and am very interested in finding and improving user pain points. <br>
 
@@ -7,6 +7,7 @@ Additionally, I value user experience and am very interested in finding and impr
 I enjoy traveling 🚎, running 🏃 and work out 🏋 <br>
 I hope to be a person with a healthy mind and body ✨ 
 
+<br>
 <br>
 
 ## 🤙 SNS
@@ -45,6 +46,9 @@ I hope to be a person with a healthy mind and body ✨
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white" alt="GitLab"/>
 
+<b>Studying(~ing)</b> :
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"> 
+
 <br>
 <br>
 
@@ -53,8 +57,8 @@ I hope to be a person with a healthy mind and body ✨
 - (SSAFY) 삼성 청년 SW 아카데미 11기 수료 - 구미캠퍼스 Java 전공자반 <24.01 ~ 24.12>
 - (멋사) 멋쟁이 사자처럼 10기 수료 - 전국 연합 코딩 동아리 경북대  <22.03 ~ 22.12>
 - 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공 졸업 <22.03 - 24.02> [편입]
+- 동국대학교 WISE 글로벌경제통상학부 중퇴 <17.03 - 22.02>
 
-<br>
 <br>
 <br>
 
@@ -69,8 +73,6 @@ I hope to be a person with a healthy mind and body ✨
 
 <br>
 <br>
-<br>
-
 
 ## 💻 프로젝트 목록
 
@@ -227,7 +229,8 @@ I hope to be a person with a healthy mind and body ✨
     
   </tbody></table>
 
-
+<br>
+<br>
 
  ## 🧠 Algorithm
 <table>
