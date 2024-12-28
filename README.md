@@ -1,20 +1,25 @@
 ## 👋 Hi there, I'm Sungho Jo  
 I'm **Backend Developer** using Java and Spring. I'm trying to be a developer who develops based on evidence. <br>
 Additionally, I value user experience and am very interested in finding and improving user pain points. <br>
+
 <br>
+
 I enjoy traveling 🚎, running 🏃 and work out 🏋 <br>
 I hope to be a person with a healthy mind and body ✨ 
 
 <br>
-<br>
 
 ## 🤙 SNS
-
 <a href="mailto:eoblue23@naver.com">
-  <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-03C75A?style=flat&logo=naver&logoColor=white" />
+</a>
+<a href="mailto:eoblue23@naver.com">
+  <img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white" />
 </a>
 
-
+<br>
+<br>
+<br>
 
 ## 🛠 Tech Stack
 
@@ -40,15 +45,31 @@ I hope to be a person with a healthy mind and body ✨
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white" alt="GitLab"/>
 
+<br>
+<br>
 
+## 🎓 Education
 
-## 🎓 Education 
-
-- 삼성 청년 SW 아카데미 (SSAFY) 11기 - Java 전공자반 <24.01 ~ 24.12>
-- 멋쟁이 사자처럼 전국 연합 코딩 동아리 10기 경북대 <22.03 ~ 22.12>
+- (SSAFY) 삼성 청년 SW 아카데미 11기 수료 - 구미캠퍼스 Java 전공자반 <24.01 ~ 24.12>
+- (멋사) 멋쟁이 사자처럼 10기 수료 - 전국 연합 코딩 동아리 경북대  <22.03 ~ 22.12>
 - 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공 졸업 <22.03 - 24.02> [편입]
 
+<br>
+<br>
+<br>
 
+## 🪧 Certificate
+
+- SQLD (SQL Developer) 취득 <24.06.21>
+- Toeic 840 <23.12.24>
+- Opic IM1 <24.09.14>
+- ~~(진행중) 정보처리기사 필기 합격~~
+- ~~(진행중) PCCP~~
+- ~~(진행중) PCSQL~~
+
+<br>
+<br>
+<br>
 
 
 ## 💻 프로젝트 목록
