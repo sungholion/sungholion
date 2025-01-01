@@ -67,9 +67,10 @@ I hope to be a person with a healthy mind and body ✨
 - SQLD (SQL Developer) 취득 <24.06.21>
 - Toeic 840 <23.12.24>
 - Opic IM1 <24.09.14>
-- ~~(진행중) 정보처리기사 필기 합격~~
+- ~~(진행중) 정보처리기사 실기~~
 - ~~(진행중) PCCP~~
 - ~~(진행중) PCSQL~~
+- ~~(진행중) Opic IH~~
 
 <br>
 <br>
@@ -78,6 +79,47 @@ I hope to be a person with a healthy mind and body ✨
 
 <table style="border-collapse: collapse; width: 100%; table-layout: fixed">
   <tbody>
+     <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        <a href="https://github.com/sungholion/GymTalk title="Project 1">
+          <img
+            src="https://github.com/user-attachments/assets/ca332a5f-2207-46bb-a78b-4e5aca9bc78a"
+            width="100px"
+            alt="Project 1"
+          />
+        </a>
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        <b>GymTalk</b>
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px">
+        (진행중) 작심삼일 헬린이를 위한 헬스 지속 서비스
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        1인
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        <a href="https://github.com/sungholion/EZDG_OpenData" title="Github">
+          25.01.01 ~ (~ing)
+        </a>
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        <a
+          href="https://github.com/sungholion/EZDG_OpenData"
+          title="GitHub Repository"
+        >
+          💻 GitHub
+        </a>
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        <a
+          href="https://www.youtube.com/watch?v=rPCc0XwKETY&ab_channel=%EC%A1%B0%EC%84%B1%ED%98%B8%5B%EA%B5%AC%EB%AF%B8_1%EB%B0%98_D110%5D%ED%8C%80%EC%9B%90"
+          title="UCC"
+        >
+          📽️ Video
+        </a>
+      </td>
+    </tr>
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a href="https://github.com/sungholion/EZDG_OpenData" title="Project 1">
