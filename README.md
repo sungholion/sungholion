@@ -14,7 +14,7 @@ I hope to be a person with a healthy mind and body ✨
 <a href="mailto:eoblue23@naver.com">
   <img src="https://img.shields.io/badge/Email-03C75A?style=flat&logo=naver&logoColor=white" />
 </a>
-<a href="mailto:eoblue23@naver.com">
+<a href="https://velog.io/@eoblue23/posts">
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white" />
 </a>
 
