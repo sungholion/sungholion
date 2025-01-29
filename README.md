@@ -1,14 +1,11 @@
-# 👋 Hi there, I'm Sungho Jo  
-I'm **Backend Developer** using Java and Spring. I'm trying to be a developer who develops based on evidence. <br>
-Additionally, I value user experience and am very interested in finding and improving user pain points. <br>
-
-<br>
+# 👋 Hi there, I'm Sungho Cho
+I'm **Backend Developer** using **Java** and **Spring Boot**. I'm trying to be a developer who develops based on evidence. <br>
+Additionally, I value user experience and am very interested in improving productivity by automation. <br>
 
 I enjoy traveling 🚎, running 🏃 and work out 🏋 <br>
 I hope to be a person with a healthy mind and body ✨ 
 
-<br>
-<br>
+<br><br>
 
 ## 🤙 SNS
 <a href="mailto:eoblue23@naver.com">
@@ -18,9 +15,7 @@ I hope to be a person with a healthy mind and body ✨
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white" />
 </a>
 
-<br>
-<br>
-<br>
+<br><br><br>
 
 ## 🛠 Tech Stack
 
@@ -49,18 +44,16 @@ I hope to be a person with a healthy mind and body ✨
 <b>Studying(~ing)</b> :
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"> 
 
-<br>
-<br>
+<br><br>
 
 ## 🎓 Education
 
-- (SSAFY) 삼성 청년 SW 아카데미 11기 수료 - 구미캠퍼스 Java 전공자반 <24.01 ~ 24.12>
-- (멋사) 멋쟁이 사자처럼 10기 수료 - 전국 연합 코딩 동아리 경북대  <22.03 ~ 22.12>
+- (SSAFY) 삼성 청년 SW 아카데미 11기 수료 - Java 전공자반 <24.01 ~ 24.12>
+- (멋사) 멋쟁이 사자처럼 10기 수료 - 전국 연합 코딩 동아리 in 경북대  <22.03 ~ 22.12>
 - 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공 졸업 <22.03 - 24.02> [편입]
 - 동국대학교 WISE 글로벌경제통상학부 중퇴 <17.03 - 22.02>
 
-<br>
-<br>
+<br><br>
 
 ## 🪧 Certificate
 
@@ -72,15 +65,13 @@ I hope to be a person with a healthy mind and body ✨
 - ~~(진행중) PCSQL~~
 - ~~(진행중) Opic IH~~
 
-<br>
-<br>
+<br><br>
 
 ## 🏃 Experience
-- ~~(진행중) Google X 멋쟁이 사자처럼 - 루트임팩트 AI 커리어 스쿨 해커톤~~
-- 경북대학교 SW 교육원 - 아이디어 해커톤 수상 
+- ~~(진행중) Google X 멋쟁이 사자처럼 - 루트임팩트 AI 커리어 스쿨 해커톤 <2025.01 ~ 2025.02>>~~
+- 경북대학교 SW 교육원 - 아이디어 해커톤 수상 <2022.10>
 
-<br>
-<br>
+<br><br>
 
 
 ## 💻 프로젝트 목록
@@ -241,7 +232,7 @@ I hope to be a person with a healthy mind and body ✨
 <br>
 <br>
 
- ## 🧠 Algorithm
+<!--## 🧠 Algorithm 
 <table>
   <tr>
     <td>
@@ -254,6 +245,4 @@ I hope to be a person with a healthy mind and body ✨
     </td>
   </tr>
 </table>
-
-
-  
+--!>
