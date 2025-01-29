@@ -75,6 +75,11 @@ I hope to be a person with a healthy mind and body ✨
 <br>
 <br>
 
+## 🏃 Experience
+- ~~(진행중) Google X 멋쟁이 사자처럼 - 루트임팩트 AI 커리어 스쿨 해커톤~~
+- 경북대학교 SW 교육원 - 아이디어 해커톤 수상 
+
+
 ## 💻 프로젝트 목록
 
 <table style="border-collapse: collapse; width: 100%; table-layout: fixed">
