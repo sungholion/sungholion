@@ -60,10 +60,13 @@ I hope to be a person with a healthy mind and body ✨
 - SQLD (SQL Developer) 취득 <24.06.21>
 - Toeic 840 <23.12.24>
 - Opic IM1 <24.09.14>
+- ~~(진행중) PCCP~~
 - ~~(진행중) 정보처리기사 실기~~
+<!--
 - ~~(진행중) PCCP~~
 - ~~(진행중) PCSQL~~
 - ~~(진행중) Opic IH~~
+!-->
 
 <br><br>
 
@@ -92,7 +95,7 @@ I hope to be a person with a healthy mind and body ✨
         <b>EZDG</b>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px">
-        공공 데이터를 쉽게 조회하는 Java 오픈소스 라이브러리
+        공공 데이터 간편 조회 Java 오픈소스 라이브러리
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         6인
@@ -132,7 +135,7 @@ I hope to be a person with a healthy mind and body ✨
         <b>NativeNavs</b>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px">
-        외국인 관광객과 한국의 일반인을 가이드로 매칭하는 모바일 앱
+        관광객과 일반인을 가이드로 매칭하는 모바일 앱
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         6인
@@ -167,7 +170,7 @@ I hope to be a person with a healthy mind and body ✨
         <b>New Jeaps</b>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px">
-        부동산 실거래가 조회 & 매물 거래 웹 서비스
+        부동산 실거래가 조회 & AI 레포트 웹 서비스
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         2인
@@ -204,7 +207,7 @@ I hope to be a person with a healthy mind and body ✨
         <b>Web-R DashBoard</b>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px">
-        'Web-R' 관리자를 위한 사용자&게시글 분석 DashBoard
+        'Web-R' 웹 사용자 분석 DashBoard
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         3인
