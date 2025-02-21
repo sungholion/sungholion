@@ -172,7 +172,7 @@ I hope to be a person with a healthy mind and body ✨
         <b>NativeNavs</b>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px">
-        관광객과 일반인을 가이드로 매칭하는 모바일 앱
+        투어 가이드 매칭 모바일 서비스
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         6인
@@ -207,7 +207,7 @@ I hope to be a person with a healthy mind and body ✨
         <b>New Jeaps</b>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px">
-        부동산 실거래가 조회 & AI 레포트 웹 서비스
+        부동산 실거래가 조회 & AI 분석 서비스
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         2인
@@ -244,7 +244,7 @@ I hope to be a person with a healthy mind and body ✨
         <b>Web-R DashBoard</b>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px">
-        'Web-R' 웹 사용자 분석 DashBoard
+        의학 통계 플랫폼 'Web-R' 사용자 분석 DashBoard
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         3인
