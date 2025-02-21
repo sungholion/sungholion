@@ -98,7 +98,7 @@ I hope to be a person with a healthy mind and body ✨
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a href="https://github.com/sungholion/Bloom" title="Github">
-          25.01.16 ~ 25.02.14 (4주)
+          25.01.31 ~ 25.02.14 (2주)
         </a>
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
