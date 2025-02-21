@@ -60,6 +60,12 @@ I hope to be a person with a healthy mind and body ✨
 
 <br><br>
 
+## 🏃 Experience
+- Google X 루트임팩트 - AI 커리어 스쿨 해커톤 수료 <2025.01 ~ 2025.02>
+- 경북대학교 SW 교육원 - 아이디어 해커톤 수상 <2022.10>
+
+<br><br>
+
 ## 🪧 Certificate
 
 - SQLD (SQL Developer) 취득 <24.06.21>
@@ -73,11 +79,7 @@ I hope to be a person with a healthy mind and body ✨
 - ~~(진행중) Opic IH~~
 !-->
 
-<br><br>
 
-## 🏃 Experience
-- Google X 루트임팩트 - AI 커리어 스쿨 해커톤 수료 <2025.01 ~ 2025.02>>
-- 경북대학교 SW 교육원 - 아이디어 해커톤 수상 <2022.10>
 
 <br><br>
 
@@ -116,7 +118,7 @@ I hope to be a person with a healthy mind and body ✨
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a
-          href="https://www.youtube.com/watch?v=rPCc0XwKETY&ab_channel=%EC%A1%B0%EC%84%B1%ED%98%B8%5B%EA%B5%AC%EB%AF%B8_1%EB%B0%98_D110%5D%ED%8C%80%EC%9B%90"
+          href="https://www.youtube.com/shorts/aEptz69afPA"
           title="UCC"
         >
           📽️ Video
