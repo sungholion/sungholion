@@ -84,6 +84,43 @@ I hope to be a person with a healthy mind and body ✨
     <tr>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a href="https://github.com/sungholion/EZDG_OpenData" title="Project 1">
+          <img width="100" alt="Image" src="https://github.com/user-attachments/assets/ab0071c9-8b9e-4371-b503-81c6c3d8374f" />
+        </a>
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        <b>Bloom</b>
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px">
+        AI 모의 주식 기반 금융 교육 서비스
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        6인
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        <a href="https://github.com/sungholion/Bloom" title="Github">
+          25.01.16 ~ 25.02.14 (4주)
+        </a>
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        <a
+          href="https://github.com/sungholion/Bloom"
+          title="GitHub Repository"
+        >
+          💻 GitHub
+        </a>
+      </td>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        <a
+          href="https://www.youtube.com/watch?v=rPCc0XwKETY&ab_channel=%EC%A1%B0%EC%84%B1%ED%98%B8%5B%EA%B5%AC%EB%AF%B8_1%EB%B0%98_D110%5D%ED%8C%80%EC%9B%90"
+          title="UCC"
+        >
+          📽️ Video
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
+        <a href="https://github.com/sungholion/EZDG_OpenData" title="Project 1">
           <img
             src="https://github.com/user-attachments/assets/483e5257-1631-4cfe-b440-13c812f0fff7"
             width="100px"
