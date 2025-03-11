@@ -258,7 +258,7 @@ I hope to be a person with a healthy mind and body ✨
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
         <a href="https://github.com/sungholion/Web-R-Dashboard" title="Github"
-          >23.09.11 ~ 24.12.04 (12주) </a
+          >23.09.11 ~ 23.12.04 (12주) </a
         >
       </td>
       <td style="border: 1px solid #ddd; padding: 8px; text-align: center">
