@@ -25,29 +25,33 @@ I hope to be a person with a healthy mind and body ✨
 
 <b>Framework</b> :
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=white">
 
 <b>Database</b> : 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" alt="MongoDB"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"> 
 
 <b>Deployment : 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> 
-<img src="https://img.shields.io/badge/Amazon%20EC2-F90?logo=amazonec2&logoColor=fff&style=flat-square"> 
-<img src="https://img.shields.io/badge/Amazon%20RDS-527fff?logo=amazonrds&logoColor=fff&style=flat-square">
 
+<b>Data Analysis & Ai : 
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Google Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
 
 <b>ETC</b> :
 <img src="https://img.shields.io/badge/Apache JMeter-D22128?style=flat-square&logo=JMeter&logoColor=white"> 
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white" alt="GitLab"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/>
 
 <b>Studying(~ing)</b> :
 ~~<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">~~
+~~<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white">~~
+~~<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">~~
 
 <br><br>
 
@@ -68,16 +72,13 @@ I hope to be a person with a healthy mind and body ✨
 
 ## 🪧 Certificate
 
-- SQLD (SQL Developer) 취득 <24.06.21>
-- Toeic 840 <23.12.24>
-- Opic IM1 <24.09.14>
+- 정보처리기사
+- ADsP (Advanced Data Analytics Semi-Professional)
+- SQLD (SQL Developer)
+- Toeic 840
+- Opic IM1
+- ~~(진행중) 빅데이터분석기사~~
 - ~~(진행중) PCCP~~
-- ~~(진행중) 정보처리기사 실기~~
-<!--
-- ~~(진행중) PCCP~~
-- ~~(진행중) PCSQL~~
-- ~~(진행중) Opic IH~~
-!-->
 
 
 
