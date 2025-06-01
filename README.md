@@ -39,6 +39,8 @@ I hope to be a person with a healthy mind and body ✨
 <b>Data Analysis & Ai : 
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Google Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/Chat GPT-412991?style=flat-square&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
 
 <b>ETC</b> :
@@ -52,21 +54,23 @@ I hope to be a person with a healthy mind and body ✨
 ~~<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">~~
 ~~<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white">~~
 ~~<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">~~
+~~<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">~~
 
 <br><br>
 
 ## 🎓 Education
 
-- (SSAFY) 삼성 청년 SW 아카데미 11기 수료 - Java 전공자반 <24.01 ~ 24.12>
-- (멋사) 멋쟁이 사자처럼 10기 수료 - 전국 연합 코딩 동아리 in 경북대  <22.03 ~ 22.12>
-- 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공 졸업 <22.03 - 24.02> [편입]
+- 삼성 청년 SW 아카데미 11기 수료 - Java 전공자반 <24.01 ~ 24.12>
+- 멋쟁이 사자처럼 경북대 10기 수료 - Backend 개발자 <22.03 ~ 22.12>
+- 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공 편입 - 졸업 <22.03 - 24.02>
 - 동국대학교 WISE 글로벌경제통상학부 중퇴 <17.03 - 22.02>
 
 <br><br>
 
 ## 🏃 Experience
-- Google X 루트임팩트 - AI 커리어 스쿨 해커톤 수료 <2025.01 ~ 2025.02>
-- 경북대학교 SW 교육원 - 아이디어 해커톤 수상 <2022.10>
+- 베이스캠퍼스 바이브 코딩 해커톤 <2025.05>
+- Google X 루트임팩트 AI 커리어 스쿨 해커톤 수료 <2025.01 ~ 2025.02>
+- 경북대학교 SW교육원 아이디어 해커톤 수상 <2022.10>
 
 <br><br>
 
