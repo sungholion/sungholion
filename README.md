@@ -59,29 +59,29 @@ I hope to be a person with a healthy mind and body ✨
 <br><br>
 
 ## 🎓 Education
-
-- 삼성 청년 SW 아카데미 11기 수료 - Java 전공자반 <24.01 ~ 24.12>
-- 멋쟁이 사자처럼 경북대 10기 수료 - Backend 개발자 <22.03 ~ 22.12>
+- ~~(진행중~) 심층 데이터 분석을 통한 개인 맞춤형 예측 자동화 서비스 솔루션 개발 과정 [삼성취업아카데미, 삼성SDS] <25.05 ~ 25.07>~~
+- 삼성 청년 SW 아카데미 11기 수료 - Java 전공자반 [삼성, 고용노동부] <24.01 ~ 24.12>
+- 멋쟁이 사자처럼 경북대 10기 수료 - Backend 개발자 [멋쟁이 사자처럼, 경북대학교] <22.03 ~ 22.12>
 - 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공 편입 - 졸업 <22.03 - 24.02>
 - 동국대학교 WISE 글로벌경제통상학부 중퇴 <17.03 - 22.02>
 
 <br><br>
 
 ## 🏃 Experience
-- 베이스캠퍼스 바이브 코딩 해커톤 <2025.05>
-- Google X 루트임팩트 AI 커리어 스쿨 해커톤 <2025.01 ~ 2025.02>
-- 경북대학교 SW교육원 아이디어 해커톤 수상 <2022.10>
+- ~~(진행중~) AWS Tech Camp [AWS] <25.06>~~
+- Vibe Coding 해커톤 [베이스캠퍼스] <25.05>
+- AI 커리어스쿨 해커톤 [Google, 루트임팩트] <25.01 ~ 25.02>
+- 아이디어 해커톤 수상 [경북대학교 SW교육원] <2022.10>
 
 <br><br>
 
 ## 🪧 Certificate
-
-- 정보처리기사
-- ADsP (Advanced Data Analytics Semi-Professional)
-- SQLD (SQL Developer)
-- Toeic 840
-- Opic IM1
-- ~~(진행중) 빅데이터분석기사 실기~~
+- ~~(진행중~) 빅데이터분석기사 실기 <25.07>~~
+- 정보처리기사 <25.06>
+- ADsP (Advanced Data Analytics Semi-Professional) <25.06>
+- Opic IM1 <25.03>
+- SQLD (SQL Developer) <24.06>
+- Toeic 840 <23.12>
 
 <br><br>
 
