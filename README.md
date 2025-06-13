@@ -69,7 +69,7 @@ I hope to be a person with a healthy mind and body ✨
 
 ## 🏃 Experience
 - 베이스캠퍼스 바이브 코딩 해커톤 <2025.05>
-- Google X 루트임팩트 AI 커리어 스쿨 해커톤 수료 <2025.01 ~ 2025.02>
+- Google X 루트임팩트 AI 커리어 스쿨 해커톤 <2025.01 ~ 2025.02>
 - 경북대학교 SW교육원 아이디어 해커톤 수상 <2022.10>
 
 <br><br>
@@ -81,10 +81,7 @@ I hope to be a person with a healthy mind and body ✨
 - SQLD (SQL Developer)
 - Toeic 840
 - Opic IM1
-- ~~(진행중) 빅데이터분석기사~~
-- ~~(진행중) PCCP~~
-
-
+- ~~(진행중) 빅데이터분석기사 실기~~
 
 <br><br>
 
