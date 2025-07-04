@@ -1,11 +1,8 @@
-# 👋 Hi there, I'm Sungho Cho
-I'm **Backend Developer** using **Java** and **Spring Boot**. I'm trying to be a developer who develops based on evidence. <br>
-Additionally, I value user experience and am very interested in improving productivity by automation. <br>
+# 👋 안녕하세요. Java/Spring Boot 개발자 조성호입니다.
+저는 객관적인 근거를 기반으로 개발하는 태도를 지향하며, 사용자 경험을 중시합니다. <br>
+또한, 자동화를 통해 생산성을 향상시키는 데 큰 관심을 가지고 있습니다.
 
-I enjoy traveling 🚎, running 🏃 and work out 🏋 <br>
-I hope to be a person with a healthy mind and body ✨ 
-
-<br><br>
+<br>
 
 ## 🤙 SNS
 <a href="mailto:eoblue23@naver.com">
@@ -15,7 +12,7 @@ I hope to be a person with a healthy mind and body ✨
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white" />
 </a>
 
-<br><br><br>
+<br><br>
 
 ## 🛠 Tech Stack
 
@@ -35,8 +32,9 @@ I hope to be a person with a healthy mind and body ✨
 
 <b>Deployment : 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> 
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
 
-<b>Data Analysis & Ai : 
+<b>Data Analysis & AI : 
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Google Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
 <img src="https://img.shields.io/badge/Chat GPT-412991?style=flat-square&logo=openai&logoColor=white">
@@ -44,7 +42,6 @@ I hope to be a person with a healthy mind and body ✨
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
 
 <b>ETC</b> :
-<img src="https://img.shields.io/badge/Apache JMeter-D22128?style=flat-square&logo=JMeter&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"/>
 <img src="https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white" alt="GitLab"/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
@@ -54,7 +51,6 @@ I hope to be a person with a healthy mind and body ✨
 ~~<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">~~
 ~~<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white">~~
 ~~<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">~~
-~~<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">~~
 
 <br><br>
 
@@ -68,11 +64,11 @@ I hope to be a person with a healthy mind and body ✨
 <br><br>
 
 ## 🏃 Experience
-- 부스트캠프 AI Tech Camp 프리코스 <25.06>
+- 부스트캠프 AI Tech Camp 프리코스 [부스트코스] <25.06>
 - AWS Tech Camp [AWS] <25.06>
-- Vibe Coding 해커톤 [베이스캠퍼스] <25.05>
-- AI 커리어스쿨 해커톤 [Google, 루트임팩트] <25.01 ~ 25.02>
-- 아이디어 해커톤 수상 [경북대학교 SW교육원] <2022.10>
+- 원데이 Vibe Coding 해커톤 [베이스캠퍼스] <25.05>
+- Google AI 커리어스쿨 해커톤 [Google, 루트임팩트] <25.01 ~ 25.02>
+- 교내 아이디어 해커톤 수상 [경북대학교 SW교육원] <2022.10>
 
 <br><br>
 
@@ -81,8 +77,6 @@ I hope to be a person with a healthy mind and body ✨
 - 정보처리기사 <25.06>
 - ADsP <25.06>
 - SQLD <24.06>
-- Opic IM1 <25.03>
-- Toeic 840 <23.12>
 
 <br><br>
 
