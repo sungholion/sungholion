@@ -62,15 +62,12 @@
 
 <!--
 <b>Studying(~ing)</b> :
-<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
-<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white">
-<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
 -->
 
 <br><br>
 
 ## 🎓 Education
-- 삼성취업아카데미 데이터분석 심화 솔루션 개발 과정 [삼성취업아카데미, 삼성SDS] <25.05 ~ 25.07>
+- 삼성취업아카데미 데이터분석 심화반 수료 - 삼성SDS Brity Automation AI 활용 과정 [삼성취업아카데미, 삼성SDS] <25.05 ~ 25.07>
 - 삼성 청년 SW 아카데미 11기 수료 - Java 전공자반 [삼성, 고용노동부] <24.01 ~ 24.12>
 - 멋쟁이 사자처럼 경북대 10기 수료 - Backend 개발자 [멋쟁이 사자처럼, 경북대학교] <22.03 ~ 22.12>
 - 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공 편입 - 졸업 <22.03 - 24.02>
