@@ -34,6 +34,13 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
 
+<b>Data Pipeline & Distributed Processing :
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
+
+
 <b>Data Analysis & AI : 
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/Google Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
@@ -47,10 +54,12 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/>
 
+<!--
 <b>Studying(~ing)</b> :
-~~<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">~~
-~~<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white">~~
-~~<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">~~
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
+-->
 
 <br><br>
 
