@@ -41,10 +41,15 @@
 <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
 
 
-<b>Data Analysis & AI : 
+<b>Data Analysis : 
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white">
+<img src="https://img.shields.io/badge/scikitlearn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white">
+
+<b> AI Tools: 
 <img src="https://img.shields.io/badge/Google Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
 <img src="https://img.shields.io/badge/Chat GPT-412991?style=flat-square&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=Claude&logoColor=white">
 <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white">
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
 
