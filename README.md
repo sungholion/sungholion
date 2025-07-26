@@ -49,8 +49,7 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/>
 
-<br>
-<br>
+<br><br>
 
 ## 🎓 Education
 - 삼성아카데미 수료 - 심층 데이터 분석 개발 과정 [삼성아카데미, 삼성SDS] <25.05 ~ 25.07>
@@ -59,18 +58,7 @@
 - 경북대학교 졸업 - 컴퓨터학부 전공, 전자공학부 부전공 <22.03 - 24.02>
 - 동국대학교 WISE 중퇴 - 글로벌경제통상학부 전공 <17.03 - 22.02>
 
-<br>
-<br>
-
-## 🏃 Experience
-- 빅데이터 분석 산업솔루션 개발 프로젝트 대상 [삼성아카데미, 삼성SDS] <25.07>
-- 부스트캠프 AI Tech Camp 프리코스 이수 [부스트코스] <25.06>
-- 원데이 Vibe Coding 해커톤 참여 [베이스캠퍼스] <25.05>
-- Google AI 커리어스쿨 해커톤 참여 [Google, 루트임팩트] <25.01 ~ 25.02>
-- 교내 아이디어 해커톤 장려상 [경북대학교 SW교육원] <22.10>
-
-<br>
-<br>
+<br><br>
 
 ## 🪧 Certificate
 - 빅데이터분석기사 <25.07>
@@ -78,8 +66,21 @@
 - ADsP <25.06>
 - SQLD <24.06>
 
-<br>
-<br>
+<br><br>
+
+
+## Experience
+|기간|활동|주관|
+|:-:|-:|:-|
+|<sub>2024.02 ~ 24.12</sub> | 빅데이터 분석 산업 솔루션 프로젝트 **대상** | 삼성아카데미, 삼성SDS |
+|<sub>2025.06 ~ 25.06</sub> | 부스트캠프 AI Tech Camp 프리코스 | 부스트코스 |
+|<sub>2025.05 ~ 25.05</sub>| AI Vibe Coding 해커톤 | 베이스캠퍼스 |
+|<sub>2025.01 ~ 25.02</sub>| AI 커리어스쿨 | Google, 루트임팩트 |
+|<sub>2022.10 ~ 22.10</sub>| 아이디어 해커톤 수상 | 경북대학교 SW교육원 |
+
+
+<br><br>
+
 
 
 ## 💻 Project
