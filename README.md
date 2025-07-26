@@ -3,6 +3,7 @@
 또한, 자동화를 통해 생산성을 향상시키는 데 큰 관심을 가지고 있습니다.
 
 <br>
+<br>
 
 ## 🤙 SNS
 <a href="mailto:eoblue23@naver.com">
@@ -12,7 +13,8 @@
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white" />
 </a>
 
-<br><br>
+<br>
+<br>
 
 ## 🛠 Tech Stack
 
@@ -60,30 +62,28 @@
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion"/>
 
-<!--
-<b>Studying(~ing)</b> :
--->
-
-<br><br>
+<br>
+<br>
 
 ## 🎓 Education
-- 삼성아카데미 심층 데이터 분석 개발 과정 수료 [삼성아카데미, 삼성SDS] <25.05 ~ 25.07>
-- 삼성 청년 SW 아카데미 11기 수료 - Java 전공자반 [삼성, 고용노동부] <24.01 ~ 24.12>
-- 멋쟁이 사자처럼 경북대 10기 수료 - Backend 개발자 [멋쟁이 사자처럼, 경북대학교] <22.03 ~ 22.12>
-- 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공 편입 - 졸업 <22.03 - 24.02>
-- 동국대학교 WISE 글로벌경제통상학부 중퇴 <17.03 - 22.02>
+- 삼성아카데미 수료 - 심층 데이터 분석 개발 과정 [삼성아카데미, 삼성SDS] <25.05 ~ 25.07>
+- 삼성 청년 SW 아카데미 11기 수료 - Java 트랙 [삼성, 고용노동부] <24.01 ~ 24.12>
+- 멋쟁이 사자처럼 경북대 10기 수료 - Backend 파트 [멋쟁이 사자처럼, 경북대학교] <22.03 ~ 22.12>
+- 경북대학교 졸업 - 컴퓨터학부 전공, 전자공학부 부전공 <22.03 - 24.02>
+- 동국대학교 WISE 중퇴 - 글로벌경제통상학부 전공 <17.03 - 22.02>
 
-<br><br>
+<br>
+<br>
 
 ## 🏃 Experience
-- 빅데이터 분석 산업솔루션 개발 프로젝트 대상 [삼성아카데미, 삼성SDS]
-- 부스트캠프 AI Tech Camp 프리코스 [부스트코스] <25.06>
-- AWS Tech Camp [AWS] <25.06>
-- 원데이 Vibe Coding 해커톤 [베이스캠퍼스] <25.05>
-- Google AI 커리어스쿨 해커톤 [Google, 루트임팩트] <25.01 ~ 25.02>
-- 교내 아이디어 해커톤 수상 [경북대학교 SW교육원] <2022.10>
+- 빅데이터 분석 산업솔루션 개발 프로젝트 대상 [삼성아카데미, 삼성SDS] <25.07>
+- 부스트캠프 AI Tech Camp 프리코스 이수 [부스트코스] <25.06>
+- 원데이 Vibe Coding 해커톤 참여 [베이스캠퍼스] <25.05>
+- Google AI 커리어스쿨 해커톤 참여 [Google, 루트임팩트] <25.01 ~ 25.02>
+- 교내 아이디어 해커톤 장려상 [경북대학교 SW교육원] <22.10>
 
-<br><br>
+<br>
+<br>
 
 ## 🪧 Certificate
 - 빅데이터분석기사 <25.07>
@@ -91,10 +91,11 @@
 - ADsP <25.06>
 - SQLD <24.06>
 
-<br><br>
+<br>
+<br>
 
 
-## 💻 프로젝트 목록
+## 💻 Project
 
 | 썸네일 | 프로젝트명 | 설명 | 팀 | 기간 | GitHub | Video |
 |--------|-------------|------|------|--------|--------|--------|
@@ -107,20 +108,3 @@
 
 
 
-<br>
-<br>
-
-<!--## 🧠 Algorithm 
-<table>
-  <tr>
-    <td>
-      <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=java_eoblue" height="150">
-    </td>
-    <td>
-      <table style="border-collapse: collapse; width: 100%; table-layout: fixed">
-      <a href="https://github.com/sungholion/Algorithm"> Algorithm Solved</a>
-      </table>
-    </td>
-  </tr>
-</table>
---!>
