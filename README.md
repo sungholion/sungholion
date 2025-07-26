@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"> 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
 
-<b>Data Pipeline & Distributed Processing :
+<b>Data Pipeline :
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=white">
