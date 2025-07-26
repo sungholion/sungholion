@@ -1,6 +1,5 @@
-# 👋 안녕하세요. Java/Spring Boot 개발자 조성호입니다.
-저는 객관적인 근거를 기반으로 개발하는 태도를 지향하며, 사용자 경험을 중시합니다. <br>
-또한, 자동화를 통해 생산성을 향상시키는 데 큰 관심을 가지고 있습니다.
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=조성호&fontAlign=80&fontAlignY=40&color=gradient)
 
 <br>
 <br>
