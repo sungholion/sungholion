@@ -1,8 +1,6 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=조성호&fontAlign=80&fontAlignY=40&color=gradient)
 
-<br>
-<br>
 
 ## 🤙 SNS
 <a href="mailto:eoblue23@naver.com">
@@ -12,8 +10,7 @@
   <img src="https://img.shields.io/badge/Blog-20C997?style=flat&logo=Velog&logoColor=white" />
 </a>
 
-<br>
-<br>
+<br><br>
 
 ## 🛠 Tech Stack
 
