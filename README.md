@@ -68,6 +68,11 @@
 
 <br><br>
 
+## 🗣️ English Proficiency
+- TOEIC Speaking IH <26.01>
+- TOEIC Writing 840 <23.12>
+
+<br><br>
 
 ## 🏃 Experience
 |기간|활동|주관|
