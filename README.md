@@ -2,7 +2,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=조성호&fontAlign=80&fontAlignY=40&color=gradient)
 
 ## 🛠 Tech Stack
-
+### Java/Spring 웹 개발과 Kafka/Spark 기반 데이터 파이프라인 설계·구현 역량
 <b>Language</b> : 
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> 
@@ -84,6 +84,11 @@
 |<sub>2022.10 ~ 22.10</sub>| 아이디어 해커톤 수상 | 경북대학교 SW교육원 |
 
 <br><br>
+## 🧠 Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=samsungskhyundai29)](https://solved.ac/samsungskhyundai29/)
+
+<br><br>
+
 
 ## 🧩 Engineering Values
 ### 객관적인 근거를 바탕으로 개발하고자 합니다.
